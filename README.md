@@ -6,7 +6,7 @@
 
 
 ## Recipe List
-### 
+- [Achari Chicken](data/achari-chicken.md)
 
 ## General Notes
 
