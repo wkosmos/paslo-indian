@@ -1,15 +1,16 @@
-* Murgh Makhani 2 - from some youtube guy it took me fucking ages to translate this
+# Murgh Makhani 2 
+from some youtube guy it took me fucking ages to translate this
 
-** Ingredients
+## Ingredients
 
-*** Chicken and marinade
+**Chicken and marinade**
 - 500 g chicken
 - 1 t each salt, chili, tandoori masala
 - 1/2 t each ground cumin and coriander
 - 4 T yogurt
 - 1/2 t lemon juice
 
-*** Sauce
+**Sauce**
 - 110g butter
 - 1 large onion, chopped
 - 1 t cumin (whole)
@@ -17,7 +18,7 @@
 - 1 1/2 inches ginger (grated)
 - 2 large tomatoes, quartered
 
-*** Finishing
+**Finishing**
 - 1 T oil
 - 2 bay leaves
 - 2 green cardamom (only the seeds)
@@ -28,7 +29,7 @@
 - 1/2 C cream (30%)
 
 
-** Method
+## Method
 
 - mix chicken with marinade and chill for 1-6h
 

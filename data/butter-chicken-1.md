@@ -1,14 +1,14 @@
-* Murgh Makhani (butter chicken) from Gymkhana London
+# Murgh Makhani (butter chicken) from Gymkhana London
 
-** Ingredients
+## Ingredients
 
-*** Marinade 1 - 1h or so
+**Marinade 1** *1h or so*
 - 500 g chicken cut to desired size (thighs ideally but breasts fine)
 - 1/2 t lemon juice
 - 1 T chili 
 
 
-*** Marinade 2 - as long as you can up to like 30h
+**Marinade 2** - *as long as you can up to like 30h*
 - 1 t vegetable oil
 - 1 t salt
 - 1 t garam masala
@@ -17,22 +17,22 @@
 - 1 T yogurt (high fat)
 
 
-*** Curry
+**Curry**
 - 5 medium tomatoes, quartered
 - 250 g chopped tomatoes
 
 - 1-2 T oil
-- 1/2 t salt
-- 1/2 t sugar
-- 1/4 t turmeric
+- .5 t salt
+- .5 t sugar
+- .25 t turmeric
 - 1 t ginger paste
 - 1 t garlic paste
 - 1 t cilatro (chopped)
 - 1 t fenugreek leaves
 - 1 t chili or to taste
 
-- 1/2 t fresh green pepper, chopped
-- 1/2 t diced ginger
+- .5 t fresh green pepper, chopped
+- .5 t diced ginger
 
 - 30 g butter
 - 30 ml single cream (18%)
@@ -41,7 +41,7 @@
 Garnish: sliced ginger (or matchsticks), cilantro
 
 
-** Method
+## Method
 
 - after 1st marinade, blend 2nd marinade to a paste and mix with meat
 
