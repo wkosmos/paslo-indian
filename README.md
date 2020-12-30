@@ -13,6 +13,7 @@
 - [Dahi Masala Gosht](data/dahi-masala-gosht.md)
 - [Hyderabadi Methi Kheema](data/hyderabadi-methi-kheema.md)
 - [Meen Kuzhambu](data/meen-kuzhambu.md)
+- [Keralan Chicken Ishtu](data/keralan-chicken-ishtu.md)
 
 ## General Notes
 
