@@ -1,4 +1,4 @@
-# Murgh Makhani 2 
+# Butter Chicken 2 
 from some youtube guy it took me fucking ages to translate this
 
 ## Ingredients
