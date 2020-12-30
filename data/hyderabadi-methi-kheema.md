@@ -1,6 +1,6 @@
 # Hyderabadi Methi Keema
 
-# Ingredients
+## Ingredients
 - 500 g minced meat (lamb)
 - 3 T oil
 - 5 green cardamom 
@@ -18,7 +18,7 @@
 - 1/2 lemon of juice
 
 
-# Method
+## Method
 
 1. Heat oil on medium, add green cardamom, fry 10 seconds, add onion. Fry 15-17 min until softened and brown, add garlic and ginger. Fry 2 minutes stirring well, add tomato paste. Fry 3 minutes.
 2. Turn heat higher and add meat, fry for 1 minute stirring continuously. Add turmeric and chilli powder, cook stirring well 4 minutes until evenly coloured. Add water and bring to boil, then cover and simmer on gentle heat for 20 mins.

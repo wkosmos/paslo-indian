@@ -1,7 +1,7 @@
 # Punjabi Dal Makhani
 [Method](#Method)
 
-# Ingredients
+## Ingredients
 - 280 g whole urad dal (black lentil)
 - 60 g red kidney beans
 - 1.5 L water
@@ -21,7 +21,7 @@
 - 1 T chopped coriander
 - 1/2 " ginger, slivered
 
-# Method
+## Method
 1. Soak black lentils and kidney beans overnight. Drain and rinse.
 2. Add to a large pot with water and salt, bring to a boil and simmer on low heat for 2 h 15 m, stirring occasionally and scraping foam from top. 
 3. Drain, reserving cooking water for later. Mash with potato masher until ~5% lentils/beans remain whole.

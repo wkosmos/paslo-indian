@@ -1,6 +1,6 @@
 # Meen Kuzhambu (Chettinad Fish Curry)
 
-# Ingredients
+## Ingredients
 
 - 3 T oil
 - 1 t mustard seeds
@@ -19,7 +19,7 @@
 - 2 T coconut cream
 - 1 T coriander leaves, roughly chopped
 
-## Spice Powder
+**Spice Powder**
 - 2 T toor dal (pigeon peas - sub black eyed peas)
 - .5 t black pepper
 - .5 t cumin seeds
@@ -27,7 +27,7 @@
 - 1 t fennel seeds
 
 
-# Method
+## Method
 - Heat a dry frying pan on medium. Roast all spice powder ingredients, stirring gently, until they start to change colour and have a nutty aroma - 3-5 mins. Grind to a fine powder.
 - Puree ginger and garlic with a splash of water. Puree onion separately.Set both aside.
 - Heat oil in a heavy pan on medium. Add mustard seeds and fry for 30 s. Add curry leaves and fry 2-3 s. Add fenugreek seeds, fry 2-3s, and add onion paste. Cook 4 mins or until translucent and coloured, and add ginger-garlic puree. Fry 2 mins, making sure to scrape the bottom of the pan as it sticks.

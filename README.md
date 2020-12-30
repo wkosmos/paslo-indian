@@ -1,8 +1,8 @@
 # Contents
 
-- [Recipe List](#recipe-list)
-- [General Notes](#general-notes)
-- [Ingredient Notes](#ingredient-notes)
+## [Recipe List](#recipe-list)
+## [General Notes](#general-notes)
+## [Ingredient Notes](#ingredient-notes)
 
 
 ## Recipe List
@@ -15,10 +15,15 @@
 - [Meen Kuzhambu](data/meen-kuzhambu.md)
 - [Keralan Chicken Ishtu](data/keralan-chicken-ishtu.md)
 
-## General Notes
+## Notes
 
 ### Roasting Spices
-  A lot of recipes mention roasting spices, but even if they don't it's almost always a good idea to roast any spices before using in a dish. It makes them release 
+A lot of recipes mention roasting spices, but even if they don't it's almost always a good idea to roast any spices before using in a dish - it makes them release the oils that contain most of their flavour. Roast spices in a dry pan on medium until you can clearly smell them.
+  
+### Bone-in Meat
+Very many traditional Indian recipes call for bone-in meat, and this is definitely more flavourful since most recipes involve stewing meat in sauce, but in almost all cases it's fine to substitute the same amount (minus the weight of bones) of boneless meat. 
 
-## Ingredient Notes
+### Whole Spices
+Many recipes call for whole spices to be used without being ground and without being removed before eating. This is very common in Indian food, and people are used to noticing whole spices and putting them to the side of their plates. That being said, it's fine to remove the whole spices from the food yourself before serving. Many of them are actually edible after being cooked, like curry leaves, cinnamon, cumin seeds, coriander seeds, mustard seeds, fennel seeds, black peppercorns, and probably more.
+
 
