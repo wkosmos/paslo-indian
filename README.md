@@ -17,7 +17,7 @@
 ## General Notes
 
 ### Roasting Spices
-  A lot of recipes mention roasting spices, but even if they don't it's almost always a good idea to roast any spices before using in a dish. 
+  A lot of recipes mention roasting spices, but even if they don't it's almost always a good idea to roast any spices before using in a dish. It makes them release 
 
 ## Ingredient Notes
 
